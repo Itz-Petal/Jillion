@@ -1,0 +1,14 @@
+D:\_projects\jillion1\bin\Debug\jillion1.exe.config
+D:\_projects\jillion1\bin\Debug\jillion1.exe
+D:\_projects\jillion1\bin\Debug\jillion1.pdb
+D:\_projects\jillion1\obj\Debug\jillion1.csproj.AssemblyReference.cache
+D:\_projects\jillion1\obj\Debug\MainWindow.baml
+D:\_projects\jillion1\obj\Debug\MainWindow.g.cs
+D:\_projects\jillion1\obj\Debug\App.g.cs
+D:\_projects\jillion1\obj\Debug\jillion1_MarkupCompile.cache
+D:\_projects\jillion1\obj\Debug\jillion1.g.resources
+D:\_projects\jillion1\obj\Debug\jillion1.Properties.Resources.resources
+D:\_projects\jillion1\obj\Debug\jillion1.csproj.GenerateResource.cache
+D:\_projects\jillion1\obj\Debug\jillion1.csproj.CoreCompileInputs.cache
+D:\_projects\jillion1\obj\Debug\jillion1.exe
+D:\_projects\jillion1\obj\Debug\jillion1.pdb
